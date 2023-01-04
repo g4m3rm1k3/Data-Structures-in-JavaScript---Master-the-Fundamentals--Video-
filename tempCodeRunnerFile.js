@@ -1,0 +1,7 @@
+console.log(`The temperature on Sunday was : ${weekly_weather[0]}`)
+// console.log(`The temperature on Monday was : ${weekly_weather[1]}`)
+// console.log(`The temperature on Tuesday was : ${weekly_weather[2]}`)
+// console.log(`The temperature on Wednesday was : ${weekly_weather[3]}`)
+// console.log(`The temperature on Thursday was : ${weekly_weather[4]}`)
+// console.log(`The temperature on Friday was : ${weekly_weather[5]}`)
+// console.log(`The temperature on Saturday was : ${weekly_weather[6]}`)
