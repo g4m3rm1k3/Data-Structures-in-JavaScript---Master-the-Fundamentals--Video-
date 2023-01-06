@@ -1,2 +1,1 @@
 
-  result.forEach((val, j) => {
